@@ -2,6 +2,8 @@
 
 ##### Visit http://www.castle-vast.com
 
+##### Courtesy of Nangialai Stoman for the Vue template.
+
 1. ##### Install packages and dependencies:
 
 ```
