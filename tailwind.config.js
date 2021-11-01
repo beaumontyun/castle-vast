@@ -1,4 +1,5 @@
 const colors = require('tailwindcss/colors');
+const defaultTheme = require('tailwindcss/defaultTheme')
 
 module.exports = {
 	purge: [
@@ -29,6 +30,13 @@ module.exports = {
 					'2xl': '8rem',
 				},
 			},
+		},
+		// textColor: {
+		// 	'danger': '#265498',
+		// },
+		fontFamily: {
+			'sans': ['Raleway', ...defaultTheme.fontFamily.sans],
+			'playfair': ['PlayFair Display', ...defaultTheme.fontFamily.sans],
 		},
 	},
 	variants: {

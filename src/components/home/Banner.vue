@@ -5,16 +5,16 @@
 	>
 		<div class="w-full sm:w-1/3 text-left">
 			<h1
-				class="text-3xl sm:text-5xl text-center sm:text-left font-semibold text-ternary-dark dark:text-primary-light uppercase"
+				class="text-sm sm:text-lg text-center sm:text-left font-light text-blue-900 dark:text-primary-light uppercase font-sans"
 			>
-				Hi, Iam Stoman
+				Welcome to Castle Vast
 			</h1>
 			<p
-				class="mt-4 text-2xml sm:text-4xl text-center sm:text-left font-semibold leading-none text-gray-400"
+				class="mt-4 text-2xml sm:text-5xl text-center sm:text-left font-semibold leading-none text-ternary-dark dark:text-primary-light leading-loose font-playfair" 
 			>
-				A Full-Stack Developer & Design Enthusiast
+				The foundation where everything is built.
 			</p>
-			<div class="flex justify-center sm:block">
+			<!-- <div class="flex justify-center sm:block">
 				<a
 					download="Stoman-Resume.pdf"
 					href="/files/Stoman-Resume.pdf"
@@ -27,7 +27,7 @@
 					></i>
 					<span class="text-sm sm:text-lg">Download CV</span></a
 				>
-			</div>
+			</div> -->
 		</div>
 		<div class="w-full sm:w-2/3 text-right float-right mt-8 sm:mt-0">
 			<img

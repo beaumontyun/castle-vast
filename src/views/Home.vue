@@ -5,21 +5,23 @@
 		<!-- Banner snd -->
 
 		<!-- Projects start -->
-		<ProjectsGrid />
+		<AboutMe />
 		<!-- Projects end -->
+
+
 	</div>
 </template>
 
 <script>
 import Banner from '@/components/home/Banner';
-import ProjectsGrid from '@/components/project/ProjectsGrid';
+import AboutMe from '@/components/about/AboutMe';
 import feather from 'feather-icons';
 
 export default {
 	name: 'Home',
 	components: {
 		Banner,
-		ProjectsGrid,
+		AboutMe,
 	},
 	data: () => {
 		return {};
