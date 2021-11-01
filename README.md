@@ -1,67 +1,26 @@
-# Vuejs & TailwindCSS Portfolio - With Dark Mode
+## Castle Vast Landing Page
 
-A simple portfolio starter theme built with Vue.js v3 and TailwindCSS v2. This is a simple portfolio theme and its geared towards beginners. For sure there's room for improvements and if there's anything missing or to be corrected or you have a better idea for it, please fork this repo and make a PR.
+##### Visit http://www.castle-vast.com
 
-![Vuejs-TailwindCSS-Portfolio](https://user-images.githubusercontent.com/16396664/137613185-4e94cf76-002b-4f7e-8d9b-f452c97cadf2.PNG)
-
-## Demo URL
-
-[https://vuejs-tailwindcss-portfolio.netlify.com](https://vuejs-tailwindcss-portfolio.netlify.com)
-
-## Features
-
--   Simple and responsive design
--   [Vue.js v3](https://vuejs.org) with [Vue Router](https://router.vuejs.org)
--   [Tailwind CSS v2](https://tailwindcss.com)
--   Theme Switcher with Dark Mode
--   Composition API
--   Vue transitions
--   Counter
--   Projects filter by category
--   Projects carousel
--   Vue.js smooth scroll
--   Dynamic forms
--   Back to top button
--   Download file button
-
-## Installation
-
-1. ##### Make sure you have Node JS installed. If you don't have it:
-
-```
-npm install -g npm
-```
-
-2. ##### Clone the repo:
-
-```
-git clone https://github.com/NangialaiStoman/vuejs-tailwindcss-portfolio.git
-```
-
-3. ##### Open the project folder:
-
-```
-cd vuejs-tailwindcss-portfolio
-```
-
-4. ##### Install packages and dependencies:
+1. ##### Install packages and dependencies:
 
 ```
 npm install
 ```
 
-5. ##### Start a local dev server at `http://localhost:8080`:
+2. ##### Start a local dev server at `http://localhost:8080`:
 
 ```
 npm run serve
 ```
 
-## Notes
+3. ##### Build
 
--   Always run `npm install` after pulling new changes
--   I'll be constantly updating this repo as I'll be adding more sections to it, so please always check the projects section of this repo to see what tasks are under todo and in progress
--   Coming Soon [I'll be doing a screencast](https://www.youtube.com/c/StomanStudio). Soon I'll be uploading a video to my YouTube channel where I'll be going through the process of creating this portoflio
--   Illustrations from [unDraw](https://undraw.co) and [Freepik](https://freepik.com)
--   Images from [Unsplash](https://unsplash.com)
--   Feel free to use it as your own portfolio
--   Contributions are welcome
+```
+npm run build
+```
+
+4. ##### Deploy
+```
+surge dist\
+```
