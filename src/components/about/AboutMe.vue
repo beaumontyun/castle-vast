@@ -40,18 +40,14 @@ export default {
       bios: [
         {
           id: 1,
-          bio: "Castle Vast specialise in private investments, private wealth and assets, and long term investment holdings.",
+          bio: "At Castle Vast, we are focusing on the next generation technology and social application projects that help improve the lives of our society and to discover the market gap that is left unfilfulled.",
         },
         {
           id: 2,
-          bio: "We take aim at a balanced portfolio with a stable and sustainable investment strategy but adopt a minimum level of investment risks to secure a healthy growth to our portfolio against the changes of time. Just like our namesake, we maintain the walls and pillars of the castle without neglecting to capture the vast lands and opportunities that surround us.",
+          bio: "We pride ourselves in having a deep knowledge and technical know-how. All members of our team have specialised knowledge in the law, finance, computer programming, engineering, political science, and many others. It is our core belief that one must have the necessary sensitivity to the technical aspect of a trade in order to create sustainable projects, to put the benefits of our stakeholders as priority above all else.",
         },
         {
           id: 3,
-          bio: "At Castle Vast, we pride ourselves in having a deep knowledge and technical know-how on our investments. All members of our firm have specialised knowledge in the law, finance, computer programming, engineering, political science, and many others. It is our core belief that one must have the necessary sensitivity to the technical aspect of a trade in order to assess investment risks, to put our beneficiaries as priority above all else.",
-        },
-        {
-          id: 4,
           bio: "We look forward to share more of our stories and success to you. Please reach out to one of our representatives to browse our latest offering.",
         },
       ],
