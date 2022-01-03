@@ -6,13 +6,13 @@
         <img
           v-if="theme === 'light'"
           src="../../assets/images/about-logo-dark.svg"
-          class="w-24 sm:w-96"
+          class="w-24 sm:w-48"
           alt="Blue Logo"
         />
         <img
           v-else
           src="../../assets/images/about-logo-light.svg"
-          class="w-24 sm:w-96"
+          class="w-24 sm:w-48"
           alt="White Logo"
         />
       </div>

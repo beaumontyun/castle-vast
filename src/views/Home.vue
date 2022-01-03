@@ -4,10 +4,13 @@
 		<Banner />
 		<!-- Banner snd -->
 
-		<!-- Projects start -->
+		<!-- AboutMe start -->
 		<AboutMe />
-		<!-- Projects end -->
+		<!-- AboutMe end -->
 
+		<!-- Project start -->
+		<Projects />
+		<!-- Project ends -->
 
 	</div>
 </template>
@@ -15,6 +18,7 @@
 <script>
 import Banner from '@/components/home/Banner';
 import AboutMe from '@/components/about/AboutMe';
+import Projects from "@/components/about/Projects"
 import feather from 'feather-icons';
 
 export default {
@@ -22,6 +26,7 @@ export default {
 	components: {
 		Banner,
 		AboutMe,
+		Projects
 	},
 	data: () => {
 		return {};

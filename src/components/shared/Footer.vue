@@ -12,7 +12,7 @@
 				>
 					Contact us
 				</p>
-				<ul class="flex gap-4 sm:gap-8">
+				<ul class="sm:flex gap-4 sm:gap-8">
 					<p class="mb-4 text-ternary-dark dark:text-ternary-light text-lg">+852 6279 6046</p>
 					<a class="mb-4 text-ternary-dark dark:text-ternary-light text-lg">corporate@castle-vast.com</a>
 				</ul>
