@@ -28,7 +28,7 @@
         </a>
         <!-- Project Avalanche logo -->
         <div class="mt-10 sm:mt-0">
-          <a href="http://project-avalanche.surge.sh">
+          <a href="https://project-avalanche.vercel.app/">
           <img
             src="../../assets/images/ProjectAvalanche.svg"
             alt=""
