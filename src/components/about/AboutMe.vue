@@ -3,7 +3,8 @@
     <!-- About me portfolio image start -->
     <div class="w-full sm:w-1/4 mb-7 sm:mb-0">
       <div>
-        <img
+        <div class="text-left dark:text-ternary-light text-ternary-dark text-3xl sm:text-5xl">ABOUT</div>
+        <!-- <img
           v-if="theme === 'light'"
           src="../../assets/images/about-logo-dark.svg"
           class="w-24 sm:w-48"
@@ -14,7 +15,7 @@
           src="../../assets/images/about-logo-light.svg"
           class="w-24 sm:w-48"
           alt="White Logo"
-        />
+        /> -->
       </div>
     </div>
     <!-- About me portfolio image end -->
@@ -24,7 +25,7 @@
       <p
         v-for="bio in bios"
         :key="bio.id"
-        class="mb-4 text-ternary-dark dark:text-ternary-light text-lg"
+        class="mb-4 text-ternary-dark dark:text-ternary-light sm:text-2xl"
       >
         {{ bio.bio }}
       </p>
@@ -40,15 +41,15 @@ export default {
       bios: [
         {
           id: 1,
-          bio: "At Castle Vast, we are focusing on the next generation technology and social application projects that help improve the lives of our society and to discover the market gap that is left unfilfulled.",
+          bio: "At Castle Vast, we focus on next generation technology that helps to improve the lives of our society.",
         },
         {
           id: 2,
-          bio: "We pride ourselves in having a deep knowledge and technical know-how. All members of our team have specialised knowledge in the law, finance, computer programming, engineering, political science, and many others. It is our core belief that one must have the necessary sensitivity to the technical aspect of a trade in order to create sustainable projects, to put the benefits of our stakeholders as priority above all else.",
+          bio: "With our knowledge and technical know-how, we possess the sensitivity and skills to create sustainable projects, placing our stakeholders as priority above all else.",
         },
         {
           id: 3,
-          bio: "We look forward to share more of our stories and success to you. Please reach out to one of our representatives to browse our latest offering.",
+          bio: "We look forward to share more of our stories and success to you, please reach out to one of our representatives to for our latest offering.",
         },
       ],
     };

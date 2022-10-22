@@ -11,13 +11,13 @@
 						><img
 							v-if="theme === 'light'"
 							src="../../assets/images/logo-dark.svg"
-							class="w-48"
+							class="w-32 sm:w-48"
 							alt="Blue Logo"
 						/>
 						<img
 							v-else
 							src="../../assets/images/logo-light.svg"
-							class="w-48"
+							class="w-32 sm:w-48"
 							alt="White Logo"
 						/>
 					</router-link>

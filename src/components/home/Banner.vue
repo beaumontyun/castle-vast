@@ -5,12 +5,12 @@
 	>
 		<div class="w-full sm:w-1/3 text-left">
 			<h1
-				class="text-sm sm:text-lg text-center sm:text-left font-light text-blue-900 dark:text-primary-light uppercase font-sans"
+				class="text-sm sm:text-lg sm:text-left font-light text-blue-900 dark:text-primary-light uppercase font-sans"
 			>
 				Welcome to Castle Vast
 			</h1>
 			<p
-				class="mt-4 text-2xml sm:text-5xl text-center sm:text-left font-semibold leading-none text-ternary-dark dark:text-primary-light leading-loose font-playfair" 
+				class="mt-4 text-2xl sm:text-5xl sm:text-left leading-none text-ternary-dark dark:text-primary-light leading-loose font-sans" 
 			>
 				The foundation where everything is built.
 			</p>

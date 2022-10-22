@@ -9,7 +9,7 @@
 		<!-- AboutMe end -->
 
 		<!-- Project start -->
-		<Projects />
+		<!-- <Projects /> -->
 		<!-- Project ends -->
 
 	</div>
@@ -18,7 +18,7 @@
 <script>
 import Banner from '@/components/home/Banner';
 import AboutMe from '@/components/about/AboutMe';
-import Projects from "@/components/about/Projects"
+// import Projects from "@/components/about/Projects"
 import feather from 'feather-icons';
 
 export default {
@@ -26,7 +26,7 @@ export default {
 	components: {
 		Banner,
 		AboutMe,
-		Projects
+		// Projects
 	},
 	data: () => {
 		return {};
