@@ -41,7 +41,7 @@ export default {
       bios: [
         {
           id: 1,
-          bio: "At Castle Vast, we focus on next generation technology that helps to improve the lives of our society.",
+          bio: "At Castle Vast, we focus on the next generation technology that helps to improve the lives of our society.",
         },
         {
           id: 2,
@@ -49,7 +49,7 @@ export default {
         },
         {
           id: 3,
-          bio: "We look forward to share more of our stories and success to you, please reach out to one of our representatives to for our latest offering.",
+          bio: "We look forward to share more of our stories and success to you, please reach out to one of our representatives for our latest offering.",
         },
       ],
     };
